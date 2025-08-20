@@ -3,4 +3,5 @@ tenacity
 pybreaker
 flask
 gunicorn
+prometheus_client
 
